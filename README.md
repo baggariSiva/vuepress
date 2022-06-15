@@ -3,6 +3,26 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/vuepress"><img src="src\images\deploy-on-elestio.png" alt="Deploy on elest.io" width="180px" /></a>
 
+
+# Vuepress!
+
+This is a very basic example of a simple Vuepress app.
+
+
+Clone this [elestio-examples/vuepress](https://github.com/elestio-examples/vuepress) 
+
+```
+git clone https://github.com/elestio-examples/vuepress.git
+```
+Change into project directory.
+
+```
+npm install
+npm run dev
+```
+
+This starts your app in development mode, make the changes and push.
+
 Example application and CI/CD pipeline showing how to deploy a Vuepress website to elestio.
 
 <img src="src\images\vuepress.png" alt="screenshot of the Vuepress app" width="100%" />
