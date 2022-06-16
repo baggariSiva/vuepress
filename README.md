@@ -2,8 +2,6 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/vuepress"><img src="src\images\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-# Vuepress!
-
 This is a very basic example of a simple Vuepress App.
 
 <img src="src\images\vuepress.png" alt="screenshot of the Vuepress app" width="100%" />
