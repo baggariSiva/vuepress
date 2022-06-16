@@ -4,7 +4,31 @@
 
 # Vuepress!
 
+<<<<<<< HEAD
 This is a very basic example of a simple Vuepress App.
+=======
+
+# Vuepress!
+
+This is a very basic example of a simple Vuepress app.
+
+
+Clone this [elestio-examples/vuepress](https://github.com/elestio-examples/vuepress) 
+
+```
+git clone https://github.com/elestio-examples/vuepress.git
+```
+Change into project directory.
+
+```
+npm install
+npm run dev
+```
+
+This starts your app in development mode, make the changes and push.
+
+Example application and CI/CD pipeline showing how to deploy a Vuepress website to elestio.
+>>>>>>> 3814344cb5b341cbf5f065d4f3ea929e34057b14
 
 <img src="src\images\vuepress.png" alt="screenshot of the Vuepress app" width="100%" />
 
